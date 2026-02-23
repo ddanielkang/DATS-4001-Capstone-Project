@@ -1,16 +1,12 @@
-# Python
-__pycache__/
-*.py[cod]
-*.egg-info/
-dist/
-build/
-.pytest_cache/
-.mypy_cache/
+# Ignore raw and generated data
+data/raw/**
+data/interim/**
+data/processed/**
 
-# Environments
-.venv/
-venv/
-env/
+# Keep folder structure
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
 
 # Jupyter
 .ipynb_checkpoints/
@@ -18,20 +14,9 @@ env/
 # macOS
 .DS_Store
 
-# Data (don't commit datasets)
-data/raw/*
-data/external/*
-data/interim/*
-data/processed/*
-!data/**/.gitkeep
-
-# Outputs
-models/*
-figures/*
-reports/*.pdf
-reports/*.html
-!figures/.gitkeep
-
-# IDE
+# VS Code
 .vscode/
-.idea/
+
+# Python cache
+__pycache__/
+*.pyc
