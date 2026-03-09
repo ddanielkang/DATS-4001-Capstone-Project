@@ -1,11 +1,15 @@
 # Ignore raw and generated data
 data/raw/**
 data/interim/**
+!data/interim/
+!data/interim/.gitkeep
+!data/interim/alsfrs_core.csv
 data/processed/**
 
 # Keep folder structure
+!data/raw/
 !data/raw/.gitkeep
-!data/interim/.gitkeep
+!data/processed/
 !data/processed/.gitkeep
 
 # Jupyter
@@ -20,3 +24,6 @@ data/processed/**
 # Python cache
 __pycache__/
 *.pyc
+
+# R history
+.Rhistory
