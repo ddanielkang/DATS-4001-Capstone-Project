@@ -1,0 +1,16 @@
+feature,importance
+num__prev_alsfrs_r_total,0.977097121384515
+num__delta_from_prev_visit,0.01345451119797791
+num__onset_delta,0.0034029853243838716
+num__baseline_alsfrs_r_total,0.0019108063317338129
+num__age,0.0012267098821294065
+num__alsfrs_delta,0.0009177172547726624
+num__time_since_first_visit,0.0008703420920413046
+num__visit_number,0.0005852940380873209
+cat__site_of_onset_Onset: Bulbar,0.0001240726596345456
+cat__site_of_onset_Onset: Limb,9.043199653191668e-05
+cat__site_of_onset_Onset: Other,7.035962412142707e-05
+cat__site_of_onset_Onset: Spine,6.716427178862577e-05
+cat__site_of_onset_Onset: Limb and Bulbar,6.576325444486489e-05
+cat__sex_Female,5.8453612423208016e-05
+cat__sex_Male,5.826707541425428e-05
