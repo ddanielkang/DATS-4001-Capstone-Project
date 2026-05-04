@@ -1,0 +1,26 @@
+Acknowledgements & Resources
+
+Course Material & Lecture Notes
+- DATS 4001 course materials & resources
+- Weekly standup feedback
+
+Datasets 
+- PRO-ACT ALS clinical dataset
+- Target ALS Data Engine
+
+Python Libraries & Documentation
+- pandas (data loading, cleaning, filtering, merging, feature engineering)
+- NumPy (numerical operations and array handling)
+- matplotlib (plots, model evaluation figures, and final report/poster visuals)
+- scikit-learn (model training, train/test splitting, regression models, performance metrics)
+
+AI Assistance
+- Debugging Python code errors & workflow issues
+- Improving explanations/wording of model results 
+- Improving Overleaf LaTeX formatting
+
+Project Tools
+- Jupyter Notebook & Jupyter Lab
+- Git and GitHub
+- Overleaf
+- Canva
